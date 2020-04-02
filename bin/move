@@ -9,4 +9,4 @@ puts "Where would you like to go?"
 
 let index = gets.strip
 
-board = []
+board = [" ", " ", " "]
