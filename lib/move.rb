@@ -12,6 +12,6 @@ def input_to_index(index)
   index.to_i - 1
 end
 
-def move(board, index, type)
+def move(board, index, type = "X")
   
 end
